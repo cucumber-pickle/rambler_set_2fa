@@ -5,6 +5,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cucumber_scripts)
 
 
+Купить почты Rambler вы можете здесь [https://accsmarket.com/](https://accsmarket.com/?ref=678316). Цена ~1 руб.
+
 Python script for automatic rambler set 2FA
 
 
